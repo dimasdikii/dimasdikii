@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Dimas Diki's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimasdikii&show_icons=true&bg_color=00000000)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dimasdikii&theme=onedark)](https://github.com/dimasdikii)
