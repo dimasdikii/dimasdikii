@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dimas Diki</h1>
-<h3 align="center">Web Programmer | Operator SIAK</h3>
+<h3 align="center">Web Programmer | Pranata Komputer</h3>
 
 
 
